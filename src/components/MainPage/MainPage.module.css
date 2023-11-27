@@ -1,0 +1,28 @@
+.mainPageWrap {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  height: 700px;
+  width: 500px;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.mainPageWrap-dark {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  background-color: darkslategrey;
+  color: white;
+  padding-bottom: 50px;
+}
+.mainPageWrap-light {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  background-color: lightyellow;
+  padding-bottom: 50px;
+}
